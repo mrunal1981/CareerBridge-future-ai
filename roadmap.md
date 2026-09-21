@@ -1,6 +1,6 @@
 # CareerBridge roadmap
 
-- [ ] Build landing page and navigation
-- [ ] Build dashboard and four agent experiences
-- [ ] Add theme system and motion
-- [ ] Verify desktop and mobile presentation
+- [x] Build landing page and navigation
+- [x] Build dashboard and four agent experiences
+- [x] Add theme system and motion
+- [x] Verify desktop and mobile presentation
